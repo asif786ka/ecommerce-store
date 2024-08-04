@@ -1,7 +1,7 @@
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react';
 
 // Replace with your production URL
-const BASE_URL = 'https://ecommerce-store.vercel.app/api';
+const BASE_URL = 'https://backend-2sgxcjgga-asifs-projects-dacf2d18.vercel.app/api';
 
 // Create API slice for fetching products using the production backend
 const productApi = createApi({
